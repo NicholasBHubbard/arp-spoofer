@@ -4,7 +4,7 @@ import           AddressCaching
 import           Control.Concurrent (forkIO)
 
 main :: IO ()
-main = populateCache
+main = undefined
+--  forkIO manageAddressCache
 --  forkIO causeNetworkDelays
 --  spoof
-

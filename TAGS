@@ -1,0 +1,20 @@
+
+./Setup.hs,15
+main main1,2
+
+./src/AddressCaching.hs,252
+module AddressCaching AddressCaching2,3
+type AddressMap AddressMap10,11
+type IpAddr IpAddr11,12
+type MacAddr MacAddr12,13
+makeIpMacMap makeIpMacMap18,19
+parseArpScanLine parseArpScanLine36,37
+parseIp parseIp43,44
+parseMac parseMac52,53
+
+./src/Main.hs,37
+module Main Main0,1
+main main5,6
+
+./test/Spec.hs,15
+main main0,1
